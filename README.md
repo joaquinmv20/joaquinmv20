@@ -1,52 +1,69 @@
-# [Your Name]
+ # 👨‍💻 Joaquín Moscoso Vega
 
-## About Me
+## 🚀 About Me
 
-Hi there! 👋 I'm [Your Name], a passionate [Your Profession or Interests] from [Your Location]. I love [A brief description of what you love or do], and I'm always excited to learn and explore new things. I'm a strong believer in the power of technology to change the world for the better, and I'm dedicated to making a positive impact through my work.
+Motivated by working under challenging situations, led various projects that improved company results by more than $400K in profits in less than 1 year. With entrepreneurial experience, worked on fundraising projects with a $1M+ scope, combining financial and strategic efficiency while managing small teams of over 4 people.
 
-## Social
+## 🌐 Social
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Website: [Your Website](https://www.yourwebsite.com)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joaquin-moscoso-205b2214b/)
+- Email: [joaquinmv20@gmail.com](mailto:joaquinmv20@gmail.com)
 
-## Projects
+## 💼 Professional Experience
 
-Here are some of the projects I've worked on:
+### Paymovil
 
-1. **Project 1**
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub repository]
-   - Technologies Used: [List of technologies/tools used]
+**Chief Financial Officer** - Mar 2022 – Mar 2023
 
-2. **Project 2**
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub repository]
-   - Technologies Used: [List of technologies/tools used]
+- Led the development and ensured compliance of the annual company budget, enhancing operational efficiency, resulting in a 15% reduction in expenses compared with prior years and a 98% budgetary compliance rate.
+- Directed company's initial 5-year projections and valuation, employing 2 different methodologies including DCF and multiples analysis, to initiate the fundraising process.
+- Managed capital raising processes with various VCs and accelerator programs worldwide, achieving the first $1M in funding from diverse VCs and accelerator programs for its business expansion endeavors.
+- Evaluated economic viability and projections across diverse company business lines, securing a $365K annual contract upgrade.
+- Guided quarterly strategic sessions with company owners, to present results and articulate strategic directives for the upcoming months.
+- Represented the company at entrepreneurship and networking events to expand its industry connections and visibility.
+- Directed a team of 4 in the financial and administrative department.
 
-3. **Project 3**
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub repository]
-   - Technologies Used: [List of technologies/tools used]
+### Diners Club Ecuador Bank
 
-Feel free to explore my GitHub profile for more of my work and contributions!
+**Financial and Strategic Analyst** - Dec 2018 – Mar 2022
 
-## Skills
+- Conducted monthly budgetary compliance presentations for senior managers, optimizing the decision-making processes to attain a consistent budgetary compliance.
+- Delivered monthly, strategic performance presentations to the management committee, strategically aiming to accomplish enhanced financial outcomes in terms of liquidity and solvency.
+- Built financial presentations to secure fundraising exceeding $100M from JP Morgan through debt financing.
+- Orchestrated the creation of the first live results dashboards using Power BI, collaborating with the IT team to develop 5 real-time dashboards.
 
-- Programming Languages: [List of programming languages you are proficient in]
-- Web Development: [List of web development technologies you are familiar with]
-- Data Science: [List of data science tools and libraries you are skilled in]
-- [Add more relevant skills]
+## 📚 Education
 
-## Achievements and Contests
+- **IE Business School** - Madrid, Spain
+  - Master in Business Analytics & Data Science (MBD)
+  - Apr 2023 – Mar 2024 (Expected)
 
-I have participated in several coding contests and achieved the following:
+- **Universidad San Francisco de Quito (USFQ)** - Quito, Ecuador
+  - Bachelor of Economics
+  - Jan 2014 – Dec 2018
+  - Honors: Magna Cum Laude
+  - Teacher and Research Assistant
 
-- [Contest 1 Name]: [Your rank or achievement]
-- [Contest 2 Name]: [Your rank or achievement]
-- [Contest 3 Name]: [Your rank or achievement]
+- **Tulane University** - New Orleans, USA
+  - Bachelor of Economics (Exchange year)
+  - Aug 2016 – Jun 2017
 
-Feel free to connect with me or reach out for collaboration. I'm always open to interesting projects and opportunities.
+## 🌟 Skills
 
-Thanks for visiting my GitHub profile! 😊
+- SQL
+- Python
+- Excel
+- Valuation Modeling
+- Power BI
+- R
+
+## 🌎 Languages
+
+- Spanish (native)
+- English (fluent)
+- German (intermediate)
+
+## 🏆 Other Achievements
+
+- Certificate in Management and Strategic Financial Control – USFQ Business School (Oct 2019 – Nov 2020)
+- Student Governor Member - USFQ Multiethnic Program (Aug 2015 – Aug 2018)
