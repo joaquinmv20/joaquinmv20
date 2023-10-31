@@ -1,32 +1,52 @@
+# [Your Name]
 
-# Hello, my name is ...
-### Data Scientist in progress
+## About Me
 
-I'm currently trying to understand the Data Science and deploying E2E data solutions.    
+Hi there! 👋 I'm [Your Name], a passionate [Your Profession or Interests] from [Your Location]. I love [A brief description of what you love or do], and I'm always excited to learn and explore new things. I'm a strong believer in the power of technology to change the world for the better, and I'm dedicated to making a positive impact through my work.
 
-<!--
-https://ileriayo.github.io/markdown-badges/
--->
+## Social
 
-## Technologies:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-</br>
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-</br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</br>
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-</br>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Website: [Your Website](https://www.yourwebsite.com)
+- Email: [Your Email Address](mailto:youremail@example.com)
 
+## Projects
 
-## Contact:
+Here are some of the projects I've worked on:
 
-[![Email](https://img.shields.io/badge/mail@yourmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mail@yourmail.com)
-</br>
+1. **Project 1**
+   - Description: [Brief project description]
+   - GitHub Repository: [Link to GitHub repository]
+   - Technologies Used: [List of technologies/tools used]
+
+2. **Project 2**
+   - Description: [Brief project description]
+   - GitHub Repository: [Link to GitHub repository]
+   - Technologies Used: [List of technologies/tools used]
+
+3. **Project 3**
+   - Description: [Brief project description]
+   - GitHub Repository: [Link to GitHub repository]
+   - Technologies Used: [List of technologies/tools used]
+
+Feel free to explore my GitHub profile for more of my work and contributions!
+
+## Skills
+
+- Programming Languages: [List of programming languages you are proficient in]
+- Web Development: [List of web development technologies you are familiar with]
+- Data Science: [List of data science tools and libraries you are skilled in]
+- [Add more relevant skills]
+
+## Achievements and Contests
+
+I have participated in several coding contests and achieved the following:
+
+- [Contest 1 Name]: [Your rank or achievement]
+- [Contest 2 Name]: [Your rank or achievement]
+- [Contest 3 Name]: [Your rank or achievement]
+
+Feel free to connect with me or reach out for collaboration. I'm always open to interesting projects and opportunities.
+
+Thanks for visiting my GitHub profile! 😊
