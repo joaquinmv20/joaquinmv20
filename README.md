@@ -2,68 +2,31 @@
 
 ## 🚀 About Me
 
-Motivated by working under challenging situations, led various projects that improved company results by more than $400K in profits in less than 1 year. With entrepreneurial experience, worked on fundraising projects with a $1M+ scope, combining financial and strategic efficiency while managing small teams of over 4 people.
+Hi there! 👋 I'm Joaquín Moscoso Vega, a highly motivated professional with a strong background in financial management and strategic analysis. After spending four years in data-related positions in the finantial sector, I decided to take my skills to the next level. I am now pursuing a Master's degree in Big Data and Business Analytics to equip myself with the tools and knowledge to enhance my analytical and problem-solving abilities.
+
+I'm passionate about harnessing the power of data to make better decisions. With a focus on cutting-edge tools and technologies like Machine Learning and AI, I firmly believe that through the correct use of technological tools,  we can transform the way companies improve their decision-making processes. These advanced techniques have the potential to revolutionize the business landscape, driving innovation and driving companies toward data-driven decision-making excellence.
+
+Feel free to reach out if you'd like to connect, collaborate, or simply discuss our shared interests. 🔥
 
 ## 🌐 Social
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joaquin-moscoso-205b2214b/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joaquin-moscoso/)
 - Email: [joaquinmv20@gmail.com](mailto:joaquinmv20@gmail.com)
-
-## 💼 Professional Experience
-
-### Paymovil
-
-**Chief Financial Officer** - Mar 2022 – Mar 2023
-
-- Led the development and ensured compliance of the annual company budget, enhancing operational efficiency, resulting in a 15% reduction in expenses compared with prior years and a 98% budgetary compliance rate.
-- Directed company's initial 5-year projections and valuation, employing 2 different methodologies including DCF and multiples analysis, to initiate the fundraising process.
-- Managed capital raising processes with various VCs and accelerator programs worldwide, achieving the first $1M in funding from diverse VCs and accelerator programs for its business expansion endeavors.
-- Evaluated economic viability and projections across diverse company business lines, securing a $365K annual contract upgrade.
-- Guided quarterly strategic sessions with company owners, to present results and articulate strategic directives for the upcoming months.
-- Represented the company at entrepreneurship and networking events to expand its industry connections and visibility.
-- Directed a team of 4 in the financial and administrative department.
-
-### Diners Club Ecuador Bank
-
-**Financial and Strategic Analyst** - Dec 2018 – Mar 2022
-
-- Conducted monthly budgetary compliance presentations for senior managers, optimizing the decision-making processes to attain a consistent budgetary compliance.
-- Delivered monthly, strategic performance presentations to the management committee, strategically aiming to accomplish enhanced financial outcomes in terms of liquidity and solvency.
-- Built financial presentations to secure fundraising exceeding $100M from JP Morgan through debt financing.
-- Orchestrated the creation of the first live results dashboards using Power BI, collaborating with the IT team to develop 5 real-time dashboards.
 
 ## 📚 Education
 
 - **IE Business School** - Madrid, Spain
   - Master in Business Analytics & Data Science (MBD)
-  - Apr 2023 – Mar 2024 (Expected)
-
+ 
 - **Universidad San Francisco de Quito (USFQ)** - Quito, Ecuador
   - Bachelor of Economics
-  - Jan 2014 – Dec 2018
   - Honors: Magna Cum Laude
   - Teacher and Research Assistant
 
-- **Tulane University** - New Orleans, USA
-  - Bachelor of Economics (Exchange year)
-  - Aug 2016 – Jun 2017
+## 💻 Skills
 
-## 🌟 Skills
-
-- SQL
-- Python
-- Excel
-- Valuation Modeling
-- Power BI
-- R
-
-## 🌎 Languages
-
-- Spanish (native)
-- English (fluent)
-- German (intermediate)
+![Sequel](https://img.shields.io/badge/Sequel-3776AB?style=flat&logo=sql&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E25A1B?style=flat&logo=tableau&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1B?style=flat&logo=apache-spark&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ## 🏆 Other Achievements
 
-- Certificate in Management and Strategic Financial Control – USFQ Business School (Oct 2019 – Nov 2020)
-- Student Governor Member - USFQ Multiethnic Program (Aug 2015 – Aug 2018)
+
